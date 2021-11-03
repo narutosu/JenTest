@@ -1,0 +1,14 @@
+/.vs/JenTest/v16/*.db-shm
+/.vs/JenTest/v16/*.db-wal
+/.vs/JenTest/v16/*.opendb
+/.vs/JenTest/v16/ipch/AutoPCH/92e9d1d94f44b643/*.ipch
+/Debug/*.exe
+/Debug/*.ilk
+/Debug/*.pdb
+/JenTest/Debug/*.recipe
+/JenTest/Debug/*.log
+/JenTest/Debug/JenTest.tlog/*.tlog
+/JenTest/Debug/JenTest.tlog/*.lastbuildstate
+/JenTest/Debug/*.obj
+/JenTest/Debug/*.idb
+/JenTest/Debug/*.pdb
